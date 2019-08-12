@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Palidrome.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Palidrome.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Palidrome.Logic.dll": {}
+        }
       }
     }
   },
@@ -678,11 +688,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Palidrome.Logic/1.0.0": {
+      "type": "project",
+      "path": "../Palidrome.Logic/Palidrome.Logic.csproj",
+      "msbuildProject": "../Palidrome.Logic/Palidrome.Logic.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "Palidrome.Logic >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -692,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sudee\\C#Revature\\Week1\\Palidrome.Client\\Palidrome.Client.csproj",
+      "projectUniqueName": "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Client\\Palidrome.Client.csproj",
       "projectName": "Palidrome.Client",
-      "projectPath": "C:\\Users\\sudee\\C#Revature\\Week1\\Palidrome.Client\\Palidrome.Client.csproj",
+      "projectPath": "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Client\\Palidrome.Client.csproj",
       "packagesPath": "C:\\Users\\sudee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sudee\\C#Revature\\Week1\\Palidrome.Client\\obj\\",
+      "outputPath": "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -714,7 +730,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Logic\\Palidrome.Logic.csproj": {
+              "projectPath": "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Logic\\Palidrome.Logic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

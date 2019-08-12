@@ -1,0 +1,4 @@
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.csprojAssemblyReference.cache
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.csproj.CoreCompileInputs.cache
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.AssemblyInfoInputs.cache
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.AssemblyInfo.cs

@@ -1,0 +1,9 @@
+C:\Users\sudee\C#Revature\week1\Palidrome.Logic\bin\Debug\netstandard2.0\Palidrome.Logic.deps.json
+C:\Users\sudee\C#Revature\week1\Palidrome.Logic\bin\Debug\netstandard2.0\Palidrome.Logic.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Logic\bin\Debug\netstandard2.0\Palidrome.Logic.pdb
+C:\Users\sudee\C#Revature\week1\Palidrome.Logic\obj\Debug\netstandard2.0\Palidrome.Logic.csprojAssemblyReference.cache
+C:\Users\sudee\C#Revature\week1\Palidrome.Logic\obj\Debug\netstandard2.0\Palidrome.Logic.csproj.CoreCompileInputs.cache
+C:\Users\sudee\C#Revature\week1\Palidrome.Logic\obj\Debug\netstandard2.0\Palidrome.Logic.AssemblyInfoInputs.cache
+C:\Users\sudee\C#Revature\week1\Palidrome.Logic\obj\Debug\netstandard2.0\Palidrome.Logic.AssemblyInfo.cs
+C:\Users\sudee\C#Revature\week1\Palidrome.Logic\obj\Debug\netstandard2.0\Palidrome.Logic.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Logic\obj\Debug\netstandard2.0\Palidrome.Logic.pdb

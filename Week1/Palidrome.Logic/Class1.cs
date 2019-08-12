@@ -7,7 +7,7 @@ namespace Palidrome.Logic
     public string allPlain {get; set;}
 
 
-    public string findPlain(){
+    public bool findPlain(){
        string allLower = allPlain.ToLower();
        char[] newChar = allLower.ToCharArray();
        Array.Reverse(newChar);
@@ -16,7 +16,7 @@ namespace Palidrome.Logic
 
     }
       public Class1(string myPlain){
-        this.allPlain = this.myPlain;
+        this.allPlain = myPlain;
       }
     }
 }

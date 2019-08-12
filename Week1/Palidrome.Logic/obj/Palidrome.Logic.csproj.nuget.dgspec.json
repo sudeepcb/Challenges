@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sudee\\C#Revature\\Week1\\Palidrome.Logic\\Palidrome.Logic.csproj": {}
+    "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Logic\\Palidrome.Logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sudee\\C#Revature\\Week1\\Palidrome.Logic\\Palidrome.Logic.csproj": {
+    "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Logic\\Palidrome.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sudee\\C#Revature\\Week1\\Palidrome.Logic\\Palidrome.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Logic\\Palidrome.Logic.csproj",
         "projectName": "Palidrome.Logic",
-        "projectPath": "C:\\Users\\sudee\\C#Revature\\Week1\\Palidrome.Logic\\Palidrome.Logic.csproj",
+        "projectPath": "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Logic\\Palidrome.Logic.csproj",
         "packagesPath": "C:\\Users\\sudee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sudee\\C#Revature\\Week1\\Palidrome.Logic\\obj\\",
+        "outputPath": "C:\\Users\\sudee\\C#Revature\\week1\\Palidrome.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

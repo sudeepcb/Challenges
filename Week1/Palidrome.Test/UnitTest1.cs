@@ -12,7 +12,8 @@ namespace Palidrome.Test
           var newPalindrome1 = new Class1();
           newPalindrome1.myPlain = "civic";
           var expected1 = true;
-          var actual = Class1.
+          var actual = newPalindrome1.findPlain();
+          Assert.True(expected1 == actual);
 
 
         }
