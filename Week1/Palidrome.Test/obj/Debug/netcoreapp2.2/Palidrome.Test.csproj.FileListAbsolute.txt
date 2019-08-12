@@ -1,0 +1,17 @@
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\obj\Debug\netcoreapp2.2\Palidrome.Test.csprojAssemblyReference.cache
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\obj\Debug\netcoreapp2.2\Palidrome.Test.csproj.CoreCompileInputs.cache
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\obj\Debug\netcoreapp2.2\Palidrome.Test.AssemblyInfoInputs.cache
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\obj\Debug\netcoreapp2.2\Palidrome.Test.AssemblyInfo.cs
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\Palidrome.Test.deps.json
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\Palidrome.Test.runtimeconfig.json
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\Palidrome.Test.runtimeconfig.dev.json
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\Palidrome.Test.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\Palidrome.Test.pdb
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\Palidrome.Logic.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\bin\Debug\netcoreapp2.2\Palidrome.Logic.pdb
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\obj\Debug\netcoreapp2.2\Palidrome.Test.csproj.CopyComplete
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\obj\Debug\netcoreapp2.2\Palidrome.Test.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Test\obj\Debug\netcoreapp2.2\Palidrome.Test.pdb

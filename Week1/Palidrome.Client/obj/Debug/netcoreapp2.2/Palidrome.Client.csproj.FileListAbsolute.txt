@@ -2,3 +2,13 @@ C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidro
 C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.csproj.CoreCompileInputs.cache
 C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.AssemblyInfoInputs.cache
 C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.AssemblyInfo.cs
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\bin\Debug\netcoreapp2.2\Palidrome.Client.deps.json
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\bin\Debug\netcoreapp2.2\Palidrome.Client.runtimeconfig.json
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\bin\Debug\netcoreapp2.2\Palidrome.Client.runtimeconfig.dev.json
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\bin\Debug\netcoreapp2.2\Palidrome.Client.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\bin\Debug\netcoreapp2.2\Palidrome.Client.pdb
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\bin\Debug\netcoreapp2.2\Palidrome.Logic.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\bin\Debug\netcoreapp2.2\Palidrome.Logic.pdb
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.csproj.CopyComplete
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.dll
+C:\Users\sudee\C#Revature\week1\Palidrome.Client\obj\Debug\netcoreapp2.2\Palidrome.Client.pdb

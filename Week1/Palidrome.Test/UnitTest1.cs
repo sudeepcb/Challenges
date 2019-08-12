@@ -9,8 +9,7 @@ namespace Palidrome.Test
         [Fact]
         public void Test1()
         {
-          var newPalindrome1 = new Class1();
-          newPalindrome1.myPlain = "civic";
+          var newPalindrome1 = new Class1("civic");
           var expected1 = true;
           var actual = newPalindrome1.findPlain();
           Assert.True(expected1 == actual);
